@@ -1,0 +1,28 @@
+*{
+
+padding: 0; 
+margin: 0; 
+
+
+}
+
+
+.gif{
+margin-left: 500px ;
+margin-bottom: 50px;
+border-bottom: 9px;
+}
+h2{
+
+color: red ;
+
+
+}
+p{
+
+
+
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+}
